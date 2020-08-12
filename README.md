@@ -4,8 +4,6 @@
 
 [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/syedmdkamruzzaman/)  &nbsp;&nbsp;   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@syedmdkamruzzaman) 
 
-😄 Pronouns: He/Him
-
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsyedmdkamruzzaman%2Freadme)
 
 ![Syed Md. Kamruzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedmdkamruzzaman&show_icons=true)
