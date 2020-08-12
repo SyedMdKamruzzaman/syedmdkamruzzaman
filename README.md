@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+📫 How to reach me: 
+
+[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/syedmdkamruzzaman/)  &nbsp;&nbsp;   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@syedmdkamruzzaman) 
+
 <!--
 **SyedMdKamruzzaman/syedmdkamruzzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
